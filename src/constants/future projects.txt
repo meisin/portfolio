@@ -1,0 +1,154 @@
+  {
+    name: "Multi-modal Emotion Recognition",
+    description:
+      "A model that is capable of recognizing human emotions from text, speech and video.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    sourceCodeLink: "https://github.com/",
+	appLink: "https://github.com/",
+  },
+  {
+    name: "Fundamental Analysis on Alphabet company information",
+    description:
+      "A query system on Alphabet company from various sources of information: Annual Report, Earnings call, Youtube videos and etc.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    sourceCodeLink: "https://github.com/",
+	appLink: "https://github.com/",
+  },
+    {
+    name: "Sejarah ChatBot (speaks Bahasa)",
+    description:
+      "A RAG ChatBot capable of answering questions based on Sejarah Textbook darjah1 to Tingkatan 5.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    sourceCodeLink: "https://github.com/",
+	appLink: "https://github.com/",
+  },
+      {
+    name: "Speech-to-speech Translation",
+    description:
+      "A model that is capable of recognizing human emotions from text, speech and video.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    sourceCodeLink: "https://github.com/",
+	appLink: "https://github.com/",
+  },
+  {
+    name: "Fine-Tuning LLM via LoRA",
+    description:
+      "A model that is capable of recognizing human emotions from text, speech and video.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    sourceCodeLink: "https://github.com/",
+	appLink: "https://github.com/",
+  },
+  {
+    name: "Edge Mobile App",
+    description:
+      "An implementation of AI model deployment at edge devices.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    sourceCodeLink: "https://github.com/",
+	appLink: "https://github.com/",
+  },
+  {
+    name: "OCR App",
+    description:
+      "A simple on OCR - https://medium.com/@balci.pelin/easyocr-with-hugging-face-with-streamlit-f5a27666ec5c",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    sourceCodeLink: "https://github.com/",
+	appLink: "https://github.com/",
+  },

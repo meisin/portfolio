@@ -1,0 +1,29 @@
+2. complete the Publications section
+3. Projects: LLM fine-tuning (hands-on lab by AWS https://innovate-aiml-data-apj.virtual.awsevents.com/channel/t/330865482)
+https://github.com/phonghuule/fine-tuning-llms-on-aws
+
+   Projects: contact centers (conversational AI) - https://github.com/aws-samples/amazon-transcribe-live-call-analytics/tree/main
+   Project: Intelligent Document Processing
+   Project: Personalized shopping assistant
+   Project: Optimize Live video streaming experience with AI/ML
+   Project: [Maybe demonstrate edge technology and federated learning]
+   Project: Q&A Bot - https://aws.amazon.com/solutions/implementations/qnabot-on-aws/
+   Project: Natural Language Queries for relational databse https://aws.amazon.com/solutions/guidance/natural-language-queries-of-relational-databases-on-aws/
+   Project: Natural Language to SQL queries https://aws.amazon.com/blogs/machine-learning/reinventing-the-data-experience-use-generative-ai-and-modern-data-architecture-to-unlock-insights/
+
+
+
+
+
+4. Courses to take: 
+a) Fine-tuning Large Language Models
+b) 
+
+
+
+List of certificates:
+1. Deep Learning Specialization
+2. Machine Learning
+3. Data Science
+4. Project Management
+5. 

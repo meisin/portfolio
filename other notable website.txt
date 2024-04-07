@@ -1,0 +1,18 @@
+skills:
+https://reactjsexample.com/react-developer-portfolio-template-use-framer-motion-to-animate-components/
+
+https://reactjsexample.com/personal-portfolio-made-using-next-js-react-and-tailwindcss-make-sure-to-leave-a--e2-ad-90-if-you-like-it/
+
+https://reactjsexample.com/a-portfolio-website-built-using-react-tailwind-css-and-typescript/
+
+
+Certification:
+https://github.com/damaisme/react-portfolio-2?tab=readme-ov-file (https://reactjsexample.com/personal-portfolio-website-using-react-js/)
+
+
+
+
+
+Image modal popup:
+https://stackoverflow.com/questions/51854055/how-to-set-a-modal-popup-with-an-image-in-react
+
