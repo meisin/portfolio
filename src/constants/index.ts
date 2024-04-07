@@ -18,6 +18,7 @@ import {
   sjkc,
   iban,
   bible,
+  speech,
   pmp,
   mlops,
   data_science,
@@ -272,6 +273,24 @@ const projects: TProject[] = [
     image: bible,
     sourceCodeLink: "https://github.com/meisin/Bible_ChatBot",
 	appLink: "https://biblechatbot.streamlit.app/",
+  },
+  {
+    name: "Speech-to-speech Translation",
+    description:
+      "Coming soon. ",
+    tags: [
+      {
+        name: "Machine Translation",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Llama-Index",
+        color: "green-text-gradient",
+      },
+    ],
+    image: speech,
+    sourceCodeLink: "https://meisinlee-portfolio.netlify.app/",
+	appLink: "https://meisinlee-portfolio.netlify.app/",
   },
 
 ];
