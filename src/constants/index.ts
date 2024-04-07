@@ -17,6 +17,7 @@ import {
   shell,
   sjkc,
   iban,
+  bible,
   pmp,
   mlops,
   data_science,
@@ -249,6 +250,28 @@ const projects: TProject[] = [
     image: iban,
     sourceCodeLink: "https://github.com/meisin/iban._speech_tool",
 	appLink: "https://huggingface.co/spaces/meisin123/iban_speech_tool",
+  },
+  {
+    name: "Bible Chatbot",
+    description:
+      "A ChatBot that is able to answer Bible-related questions. It is an LLM app with Retrieval Augmented Generation (RAG) capabilities, it retrieves answers from a specified source of information (ie. Bible). ",
+    tags: [
+      {
+        name: "RAG LLM app",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Llama-Index",
+        color: "green-text-gradient",
+      },
+      {
+        name: "streamlit",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: bible,
+    sourceCodeLink: "https://github.com/meisin/Bible_ChatBot",
+	appLink: "https://biblechatbot.streamlit.app/",
   },
 
 ];
