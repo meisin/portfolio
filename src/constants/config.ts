@@ -73,7 +73,7 @@ export const config: TConfig = {
       h2: "Overview.",
       content: `I received my doctoral degree in from Monash University in 2022, with a focus in the finance and economics domain. 
 	  My work in Action Lab Monash has expanded my expertise from purely text processing (NLP) to include other modality such as audio. Through the development of LLM-based applications for Action Lab, 
-	  I am also up-to-date with the latest development in Generative AI development.`,
+	  I am also up-to-date with the latest development in Generative AI.`,
 	  content2: `The key areas of expertise (and also interest) are summarized in the icons below:`,
     },
     experience: {
