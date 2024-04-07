@@ -16,6 +16,7 @@ import {
   graduation,
   shell,
   sjkc,
+  iban,
   pmp,
   mlops,
   data_science,
@@ -231,6 +232,25 @@ const projects: TProject[] = [
     sourceCodeLink: "https://github.com/multilingual-malaysian/SRJKC_resources",
 	appLink: "https://multilingual-malaysian.github.io/SRJKC_resources/",
   },
+    {
+    name: "Bahasa Iban Transcriber",
+    description:
+      "A simple gradio web application that enables users to transcribe spoken Iban through one of FOUR ways: upload audio, record using microphone, upload video or youtube video link.",
+    tags: [
+      {
+        name: "ASR",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "gradio",
+        color: "green-text-gradient",
+      },
+    ],
+    image: iban,
+    sourceCodeLink: "https://github.com/meisin/iban._speech_tool",
+	appLink: "https://huggingface.co/spaces/meisin123/iban_speech_tool",
+  },
+
 ];
 
 export { services, experiences, testimonials, projects, certs };
