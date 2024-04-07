@@ -15,6 +15,7 @@ import {
   monash,
   graduation,
   shell,
+  sjkc,
   pmp,
   mlops,
   data_science,
@@ -200,7 +201,36 @@ const testimonials: TTestimonial[] = [
 ];
 
 const projects: TProject[] = [
-
+  {
+    name: "SRJKC Resource Centre",
+    description:
+      "An AI tool for education. Web respository containing materials (audio book, translation and Pinyin annotation) based on SJKC Chinese textbook as learning aids.",
+    tags: [
+		  {
+        name: "OCR",
+        color: "red-text-gradient",
+      },
+      {
+        name: "ASR",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Machine Translation",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Speech Synthesis",
+        color: "pink-text-gradient",
+      },
+	  {
+        name: "github-pages",
+        color: "red-text-gradient",
+      },
+    ],
+    image: sjkc,
+    sourceCodeLink: "https://github.com/multilingual-malaysian/SRJKC_resources",
+	appLink: "https://multilingual-malaysian.github.io/SRJKC_resources/",
+  },
 ];
 
 export { services, experiences, testimonials, projects, certs };
