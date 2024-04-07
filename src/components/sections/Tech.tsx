@@ -25,7 +25,7 @@ const Tech = () => {
       >		<ol>
 			<li>1. <b>Project Management</b> - managed implementation of IT projects according to planned timeline and within approved budget.</li>
 			<li>2. <b>Business Analysis</b> - experienced in converting business requirements into technical requirements, including good stakeholder engagement and management skills.</li> 
-			<li>3. <b>ML Lifecycle & MLOps</b> - experienced in ML project lifecycle (model training & fine-tuning, performance optimization) and addressing challenges such as insufficient training data, imbalanced dataset, model training & fine-tuning.</li>
+			<li>3. <b>ML Lifecycle & MLOps</b> - experienced in ML project lifecycle (model training & fine-tuning, performance optimization) and addressing challenges such as insufficient training data, imbalanced dataset and etc.</li>
 		</ol>
 		< br />
         {config.sections.tech.content}
